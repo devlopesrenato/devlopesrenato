@@ -1,7 +1,7 @@
 # \<DevLopesRenato \/\>
 ## Renato Lopes Silva
 - 💻 Desenvolvedor 
-- 📚 Analise e Desenvolvimento de Sistemas
+- 📚 Tecnólogo em Analise e Desenvolvimento de Sistemas
 - 👨🏽‍💻 Apaixonado por tecnologia
 - 📫 E-mail: renatolopes37@gmail.com
 
